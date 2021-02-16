@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex.
-- 👀 I’m interested in MLOps and deployment, web scraping, and parallelization.
-- 🌱 I’m currently learning FastAPI, Requests, CUDA.
+- 👀 I’m interested in MLOps/deployment, web scraping, and database architecture.
+- 🌱 I’m currently learning FastAPI, MongoDB, and BeautifulSoup.
 - 💞️ I’m looking to collaborate on Machine Learning deployment.
 - 📫 How to reach me alexander.smith.cs@gmail.com.
